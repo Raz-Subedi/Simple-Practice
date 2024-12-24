@@ -1,0 +1,10 @@
+boolean
+
+byte 8bits 
+char
+
+short
+int 
+float float b= 10.
+long
+double

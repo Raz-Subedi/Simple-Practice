@@ -1,0 +1,12 @@
+
+instantiate initialize declare
+
+Method sabaii nameless, static.
+
+Variable ob= new Variable();
+
+Memory Type in java.
+
+Class Loader
+
+Data Type(size range unsigned signed)
